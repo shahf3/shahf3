@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Ali Shah</h1>
-<h3 align="center">Computer Science Graduate | Blockchain Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Software Developer | Full-Stack & Blockchain Enthusiast</h3>
 
 <p align="center">
 🚀 Passionate about building secure, scalable, and user-focused web applications using modern technologies.
