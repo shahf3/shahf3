@@ -9,7 +9,6 @@
 
 - 🎓 **Computer Science Graduate** with strong foundations in software engineering, databases, and distributed systems.
 - 🧪 Recently completed **FarmaTech**, a blockchain-based drug authentication platform aimed at enhancing transparency and traceability in the pharmaceutical supply chain.
-- 🛠️ Actively improving my personal full-stack project **Cloud File Manager**, focusing on performance and feature expansion.
 - 💡 Enthusiastic about **blockchain, backend systems, and cloud-native development**.
 - 📚 Currently sharpening my knowledge in **Express.js, Next.js, CouchDB, Docker, and Hyperledger Fabric**.
 - 🧠 Regularly practicing **Data Structures & Algorithms** to strengthen problem-solving and coding skills.
